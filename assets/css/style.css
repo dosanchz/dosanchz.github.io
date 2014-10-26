@@ -260,7 +260,7 @@ font-weight: 400;
 	font-size: 16px;
 }
 
-#temp {font-size: 6em;
+#temp {font-size: 5em;
     color: white;
     background-color: #70cbce;
     border: solid 10px white;
@@ -269,7 +269,7 @@ font-weight: 400;
 }
 
 #lumen {
-font-size: 6em;
+font-size: 5em;
     color: white;
     background-color: #ffd800;
     border: solid 10px white;
@@ -277,12 +277,21 @@ font-size: 6em;
 }
 
 #humid {
-    font-size: 6em;
+    font-size: 5em;
     color: white;
     background-color: #0f78bf;
     border: solid 10px white;
 
 }
+
+#moist {
+ font-size: 5em;
+    color: white;
+    background-color: #d3a50b;
+    border: solid 10px white;
+
+}
+
 
 
 /* Blue Section - Picton */
@@ -401,18 +410,5 @@ font-size: 6em;
 #logo {
 width: 100%;
 margin: 7% 1% 0 1%;
-}
-
-
-
-/* Custom, iPhone Retina */ 
-@media only screen and (max-width : 320px) {
-    
-    
-    #logo {
-width: 100%;
-margin: 20% 1% 0 1%;
-}
-    
 }
 
