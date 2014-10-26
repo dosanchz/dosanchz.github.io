@@ -13,10 +13,7 @@
 
 /* Import fonts */
 
-@font-face {
-    font-family: Ubuntu;
-    src: url(/Ubuntu-Regular.tff);
-}
+
 
 * { 
 	margin: 0;
@@ -39,7 +36,7 @@ p {
 	padding: 0; 
 	margin-bottom: 12px; 
     font-family: 'Ubuntu', sans-serif;
-	font-weight: 300;
+	font-weight: 400;
 	font-size: 18px; 
 	line-height: 28px;
 	color: #666; 
@@ -218,19 +215,19 @@ input {
 
 #h h1 {
 	color: white;
-	font-weight: 900;
+	font-weight: 700;
 	font-size: 70px;
 	letter-spacing: 5px;
 }
 
 #h h3.tagline{
-font-weight: 100;
+font-weight: 400;
 text-align:center;
 color: #009688;}
 
 
 #h h1 span {
-font-weight: 200;
+font-weight: 400;
 }
 
 #h h3 {
