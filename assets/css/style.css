@@ -260,7 +260,7 @@ font-weight: 400;
 	font-size: 16px;
 }
 
-#temp {font-size: 5em;
+#temp {font-size: 4.5em;
     color: white;
     background-color: #70cbce;
     border: solid 10px white;
@@ -269,7 +269,7 @@ font-weight: 400;
 }
 
 #lumen {
-font-size: 5em;
+font-size: 4.5em;
     color: white;
     background-color: #ffd800;
     border: solid 10px white;
@@ -277,7 +277,7 @@ font-size: 5em;
 }
 
 #humid {
-    font-size: 5em;
+    font-size: 4.5em;
     color: white;
     background-color: #0f78bf;
     border: solid 10px white;
@@ -285,9 +285,9 @@ font-size: 5em;
 }
 
 #moist {
- font-size: 5em;
+ font-size: 4.5em;
     color: white;
-    background-color: #d3a50b;
+    background-color: coral;
     border: solid 10px white;
 
 }
