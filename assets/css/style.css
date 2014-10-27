@@ -271,7 +271,7 @@ font-weight: 400;
 #lumen {
 font-size: 4.5em;
     color: white;
-    background-color: #ffd800;
+    background-color: coral;
     border: solid 10px white;
 
 }
@@ -287,7 +287,7 @@ font-size: 4.5em;
 #moist {
  font-size: 4.5em;
     color: white;
-    background-color: coral;
+    background-color: #d3a50b;
     border: solid 10px white;
 
 }
