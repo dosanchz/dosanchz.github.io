@@ -418,10 +418,10 @@ margin-bottom:  150px;
 
 
 
-@media only screen and (max-width : 320px) {
+@media only screen and (max-width : 480px) {
     
     #logo {
-    top: 30%;
+    margin-top: 30%;
     }
     
     
