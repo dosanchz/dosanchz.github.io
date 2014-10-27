@@ -415,3 +415,14 @@ margin: 7% 1% 0 1%;
 #templeaf {
 margin-bottom:  150px;
 }
+
+
+
+@media only screen and (max-width : 320px) {
+    
+    #logo {
+    top: 30%;
+    }
+    
+    
+}
